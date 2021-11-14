@@ -1,1 +1,25 @@
-/* Write your CSS here! */
+body {
+    background-color:rgb(199, 222, 233);
+    margin-top: 25px;
+    margin-bottom: 100px;
+    margin-right: 150px;
+    margin-left: 25px;
+
+    padding-top: 10px;
+  padding-right: 30px;
+  padding-bottom: 25px;
+  padding-left: 25px;
+  }
+  
+  #intro {
+    color: rgb(39, 4, 236)
+  }
+
+  #h2 {
+    color: rgb(236, 143, 4)
+  }
+
+  .class1 {
+    font-size: 20px;
+  }
+
